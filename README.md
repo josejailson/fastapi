@@ -1,5 +1,5 @@
 # fastapi
-Demo of FastAPI + AWS App Runner
+This is a demo of a FastAPI on AWS App Runner.
 
 
 ## run docker
